@@ -1,3 +1,5 @@
+
+
 # Computação Distribuida
 
 Computação Distribuida é um modelo de computação em que várias máquinas, também conhecidas como nós ou servidores, trabalham de forma coordenada para resolver um problema ou realizar uma tarefa, compartilhando recursos e dados. Ao invés de depender de um único computador para realizar um processamento, a carga de travalho é dividida entre vários sistemas, o que permite maior capacidade de processamento, escalabilidade e eficiência.
